@@ -1,4 +1,4 @@
-# Analyzing Customer Churn for Telecom Provider
+# Case study: Analyzing Customer Churn for Telecom Provider
 ## Introduction
 This project uses a churn dataset from a telecom provider called Databel to analyze why customers are leaving. 
 The analysis explores customer behavior, demographics, service usage, and contract details to uncover key drivers of churn. 
